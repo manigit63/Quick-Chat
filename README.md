@@ -1,6 +1,5 @@
 # Quick-Chat  
 
-URL : quick-chat-orcin-mu.vercel.app
 About
 This project is a Full Stack Real-Time Chat Application built using the MERN Stack (MongoDB, Express, React, Node.js) with Socket.io for real-time communication. It features instant messaging, online/offline status, image sharing, profile management, and secure authentication — all deployed on Vercel for frontend and backend.
 
